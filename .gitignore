@@ -1,0 +1,6 @@
+**/*.js
+**/*.html
+**/*.wasm
+**/*.out
+
+!functions/functions.html
