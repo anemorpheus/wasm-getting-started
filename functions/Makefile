@@ -7,4 +7,4 @@ serve:
 	emrun ./functions.html
 
 clean:
-	rm -f functions.js functions.html functions.wasm
+	rm -f functions.js functions.wasm
